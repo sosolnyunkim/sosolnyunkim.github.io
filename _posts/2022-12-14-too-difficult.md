@@ -1,5 +1,5 @@
 ---
-layout: default_test
+layout: post
 title:  "Too hard!"
 date:   2022-12-16 18:05:55 +0300
 image:  '/assets/img/03.jpg'
