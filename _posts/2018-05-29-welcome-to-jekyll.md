@@ -9,6 +9,13 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+내 이름은 김소현이야. 지금은 test중이지. 과연 가독성이 좋을까 너무나도 걱정되네 한번 한글로 쭉 써봐?근데 수식은 어떻게 넣지....처음 해보는건데 왤케 어려운지ㅠ퓨ㅠ
+
+Test
+<ul> define </ul>
+<ol> coler </ol>
+<li> example </li>
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
