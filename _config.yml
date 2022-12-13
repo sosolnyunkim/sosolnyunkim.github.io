@@ -7,10 +7,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: So Hyun Kim 
+  name: sosolnyunkim 
   image: '/assets/img/01.jpg'
   job: Study blog
-  bio: 컴퓨터와 관련된 모든 것을 기록하자
+  bio: Study for Computer Science
   email: forexample@website.com
 
 
