@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  Believe in the workflow
+title:  "[Jetson Nano] Install Kernel"
 date:   2022-12-15 00:00:00 +0300
 image:  '/assets/img/JetsonNano.png'
 tags:   [Jetson Nano]
 ---
 ### **1. Driver 확인하기**
 
-#### 1) Jetson Nano에서 driver 확인하기
+#### 1) Driver 확인하기
+
+아래의 command를 사용하여 현재 jetson nano가 사용하는 driver의 이름을 파악한다.
 
 {% highlight ruby %}
 ethtool -i eth0
@@ -15,16 +17,12 @@ ethtool -i eth0
 
 ![](/assets/img/JetsonNano_driver.png)
 
+#### 2) Driver 설치하기
 
-> Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+1. 아래의 파일 혹은 사이트에서 r8168 driver source code 다운받기
+* 파일:
+* 사이트:
 
-> Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-### Dramatically web services.
-
-Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.
 
 * **Functional solutions** - Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.
 
