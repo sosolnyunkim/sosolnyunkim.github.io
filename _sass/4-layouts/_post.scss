@@ -52,23 +52,47 @@
     font-weight: 400;
     line-height: 24px;
     img {
-      margin: 1px 10px 10px;
+      margin: 0px 0px 10px;
+      border-radius: 10px
     }
   }
   ol, li, ul {
     margin-top:10px;
-    margin-bottom: 10px;
+    margin-bottom:10px;
     font-family: 'Noto Sans KR';
   }
-  h1, h2, h3, h4 {
+  h1, h2, h3 {
     font-family: 'Noto Sans KR';
     font-weight: 600;
     margin-bottom: 20px;
     margin-top: 10px;
   }
-  code {
-    padding:10px;
+  h4, h5, h6 {
+    font-family: 'Noto Sans KR';
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  pre{
+    background: #eee !important;
+    border-radius: 10px;
+    padding-left: -10px; 
+    margin-left: -10px;
+    margin-top: -5px;
+  }
+  code{
     font-family: 'IBM Plex Mono', monospace;
+    font-weight: 400;
+    line-height: 160%;
+  }
+
+  div {
+    padding-left: 10px;
+    margin: 10px 0px 10px;
+    border-radius: 10px;
+  }
+  a {
+    color: blue;
+    font-size: 20px;
   }
 }
 
