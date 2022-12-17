@@ -3,7 +3,7 @@ layout: post
 title:  "[Jetson Nano] Install Driver"
 date:   2022-12-17 00:00:00 +09:00
 image:  '/assets/img/JetsonNano2.png'
-tags:   [Setup, Jetson Nano]
+tags:   [Setup]
 ---
 
 ### **1. 전제조건**
