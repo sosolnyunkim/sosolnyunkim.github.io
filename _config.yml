@@ -38,6 +38,7 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll/tagging
+  - jemoji
 
 # Pages Path
 defaults:

@@ -2,7 +2,7 @@
 layout: post
 title:  "[Jetson Nano] Install Kernel"
 date:   2022-12-17 00:00:00 +0000
-image:  '/assets/img/JetsonNano.png'
+image:  '/assets/img/JetsonNano.jpg'
 tags:   [Setup]
 ---
 
