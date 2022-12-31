@@ -6,7 +6,7 @@ image:  '/assets/img/GithubPage.jpg'
 tags:   [Github]
 ---
 
-> 글이 제대로 써졌는 중간 주간 확인하면서 봐야겠죠?  
+> github 블로그에 포스팅하는 글이 제대로 써졌는 중간 중간 확인하면서 봐야겠죠?  
   매번 push하기에는 너무 오래 걸리기 때문에, 로컬 서버에서 확인하는 방법을 알려드릴게요!
 
 ### **1. Window에 Ruby설치**
