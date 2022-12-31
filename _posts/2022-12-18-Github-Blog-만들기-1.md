@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Github Blog] 시작하는 방법 - (1)"
+title:  "[Github Blog] 시작하는 방법 - (1) 맨 처음 시작"
 date:   2022-12-18 00:00:00 +09:00
 image:  '/assets/img/GithubPage.jpg'
 tags:   [Github]
