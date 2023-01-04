@@ -5,5 +5,5 @@ permalink: /about/
 image: '/assets/img/01.jpg'
 ---
 
-Hi, my name is Sohyun Kim.
+Hi, my name is So.
 
