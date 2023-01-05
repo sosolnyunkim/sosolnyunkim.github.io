@@ -37,7 +37,7 @@ Real-time kernel인 PREEMPT-RT kernel 환경임. network IRQ, client application
 Real-time kernel인 PREEMPT-RT kernel 환경임. real-time application에 관련된 thread (IRQ & application)만 하나의 CPU에서 실행함. 그 외의 non real-time application에 관련된 모든 thread는 다른 CPU에서 실행함.  
 3번 환경과 동일한 결과가 나옴.  
 궁금한 점: 3번 환경과의 결과가 비교했을 때, 달라지는 점이 없는데 왜 이 방법을 제시했는지 모르겠음.
-### **Conclusion**
+##### 3) Conclusion
 UDP protocol에서 real-time application을 실행할 때, 적절한 configuration을 사용하면 bound된 latency와 no deadline miss를 가질 수 있음.
 
 
